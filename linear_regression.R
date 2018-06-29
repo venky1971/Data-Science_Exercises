@@ -16,7 +16,7 @@
 
 # set the working directory
 getwd() # where am I?
-setwd("F:/Janaki & Venky/Data Science/Data Science Exercises/ML Linear Regression")
+# setwd("F:/Janaki & Venky/Data Science/Data Science Exercises/ML Linear Regression")
 
 ##   You might also start by listing the files in your working directory
 
